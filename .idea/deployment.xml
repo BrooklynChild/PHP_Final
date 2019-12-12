@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="icarus.cs.weber.edu">
+    <serverData>
+      <paths name="icarus.cs.weber.edu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="phpfinal" local="$PROJECT_DIR$" web="/phpfinal" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
